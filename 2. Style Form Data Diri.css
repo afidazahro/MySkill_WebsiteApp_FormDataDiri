@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2; /*background halaman jadi abu-abu*/
+}
+
+h1{
+    color: black;
+}
+
+form{
+    background: white;
+    padding: 20px;
+    display: inline-block; /*inline block : bikin ukuran background menyesuaikan dengan ukurannya*/
+    border-radius: 10px;
+}
+
+input, textarea{
+    width: 250px; /*lebar*/
+    padding: 8px; /*jarak dalam*/
+}
+
+button{
+    padding: 10px;
+}
